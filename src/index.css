@@ -141,9 +141,9 @@ html {
 }
 
 .asset-container{
-    width: 95%;
+    width: 85%;
     margin-bottom: 60px;
-    justify-content: space-evenly;
+    justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
 }
