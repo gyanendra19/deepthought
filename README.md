@@ -1,8 +1,23 @@
-# React + Vite
+## DEEP THOUGHT ASSIGNMENT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Cloning and Running the Application in local
 
-Currently, two official plugins are available:
+Clone the project into local
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install all the npm packages. Go into the project folder by typing the command
+
+```bash
+cd deepthought
+```
+
+Then type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm run dev
+```
